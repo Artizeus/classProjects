@@ -8,4 +8,6 @@
 #### Extended this program using Twitter's API to display locations of Tweets matching user specific search terms with the capibility to display each Tweet
 
 ## Software Development Project:
-#### Worked together with a team of three other programmers in an Agile Scrum process to create two Java classes for an extensive code base. The code bases primary purpose is to develop programs for network communication in wireless sensor networks. The classes that we wrote produced a Latency Analysis file that shows the flows and time slots for the Scheduler. We created high level plans and a UML Sequence Diagram before starting, wrote JavaDoc updates for all code, and created JUnit tests to make sure our methods were effective.
+#### Worked together with a team of three other programmers in an Agile Scrum process to create two Java classes for an extensive code base. The code bases primary purpose is to develop programs for network communication in wireless sensor networks. 
+#### The classes that we wrote produced a Latency Analysis file that shows the flows and time slots for the Scheduler. 
+#### We created high level plans and a UML Sequence Diagram before starting, wrote JavaDoc updates for all code, and created JUnit tests to make sure our methods were effective.
